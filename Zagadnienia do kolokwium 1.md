@@ -1,5 +1,5 @@
 - granica ciągu (z definicji i sybsza wersja):  
-    - https://www.matemaks.pl/granica-ciagu.html  
+    - [matemaks](https://www.matemaks.pl/granica-ciagu.html)  
 - zbieżność ciągu do granicy (w tym tw. o 3 ciagach):  
     - [granica ciągu z def.](https://www.naukowiec.org/wiedza/matematyka/definicja-granicy-ciagu-zbieznego_3330.html)  
     - [granica ciągu z def. - pdf do ściągnięcia](https://zpe.gov.pl/pdf/PxDXcIUG5)  
