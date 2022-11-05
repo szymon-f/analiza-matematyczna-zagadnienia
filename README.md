@@ -1,2 +1,2 @@
 # analiza-matematyczna-zagadnienia
-zagadnienia do kolejnych kolokwiów z analizy
+repo zagadnień do kolejnych kolokwiów z analizy
