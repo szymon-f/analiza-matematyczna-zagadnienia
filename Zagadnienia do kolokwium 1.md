@@ -7,7 +7,7 @@
 - kresy zbiorów:  
     - [skrypt wykładu](https://www.math.uni.wroc.pl/~jwr/2020-21/Analiza1/wyklad16.pdf)  
 - kryterium d'alemberta(zbieżność szeregów):  
-    -[matemaks](https://www.matemaks.pl/kryterium-d-alemberta.html)  
+    - [matemaks](https://www.matemaks.pl/kryterium-d-alemberta.html)  
 - liczby zespolone:  
     - w skrypcie analu jest wszystko  
 - warunek cauchy'ego:  
