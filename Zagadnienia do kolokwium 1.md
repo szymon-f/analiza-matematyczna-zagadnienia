@@ -13,6 +13,6 @@
 - warunek cauchy'ego:  
     - [matemaks](https://www.matemaks.pl/kryterium-cauchy-ego.html)  
 - liczba e:  
-    -[krótki pdf o def. liczby e](https://www.fuw.edu.pl/~maciejun/MatematykaI-10-11/Tematy/Liczbae.pdf)  
+    - [krótki pdf o def. liczby e](https://www.fuw.edu.pl/~maciejun/MatematykaI-10-11/Tematy/Liczbae.pdf)  
     - [lista 4 zad 1 (udowodnij nierówność bernoulliego)](https://www.youtube.com/watch?v=J4QZdHcBBK8)  
 
